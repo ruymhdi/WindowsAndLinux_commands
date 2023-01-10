@@ -1,0 +1,65 @@
+Helpful Linux Terminal Commands:
+
+ls [list, ls -al]
+		
+cd [chang dir, cd ..]		
+
+uname -a [OS info]		
+
+history [also up arrow]		
+
+sudo [super user do]		
+
+mkdir/rmdir [create dir]	
+
+cp/mv/rm [copy/move/del files]	
+
+man [help or cmd --help]
+
+pwd [print working dir]
+
+echo [print to screen, > to file]
+
+nano [text editor, CTRL-X]
+
+more [show contents of file]
+
+find -name [find file by name]
+
+locate [locate after updatedb]
+
+ping/ifconfig [network]
+
+env [show all environment vars]
+
+Helpful Windows Commands:
+
+dir [list files in directory]
+
+cd [change dir, cd ..]
+
+var [OS info]
+
+doskey /h [also up arrow]
+
+cmd [run as administrator]
+
+mkdir/rmdir [also md/rd]
+
+copy/move/del [copy files]
+
+help [helo or cmd /?]
+
+cd [print current dir]
+
+echo [print(to screen, > to file]
+
+notepad [text editor]
+
+more [show contetns of file]
+
+ping [ping an address/host]
+
+ipconfig [network info]
+
+set [show all environment vars]
